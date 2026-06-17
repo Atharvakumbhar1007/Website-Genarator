@@ -6,10 +6,10 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![WebContainer](https://img.shields.io/badge/WebContainer-121212?style=for-the-badge&logo=stackblitz&logoColor=white)
-![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
-![AI Powered](https://img.shields.io/badge/AI-Powered-success?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![AI Powered](https://img.shields.io/badge/AI-Powered-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 </p>
 
