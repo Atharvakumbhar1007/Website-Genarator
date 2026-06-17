@@ -2,10 +2,10 @@
 
 <p align="center">
 
-![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/project?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/project?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/project?style=for-the-badge)
-![License](https://img.shields.io/github/license/yourusername/project?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![WebContainer](https://img.shields.io/badge/WebContainer-121212?style=for-the-badge&logo=stackblitz&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
